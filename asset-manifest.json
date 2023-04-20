@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CristianTrifPasswordGenerator/static/css/main.3aa9bb06.css",
+    "main.js": "/CristianTrifPasswordGenerator/static/js/main.52d7a91f.js",
+    "static/js/787.19639b78.chunk.js": "/CristianTrifPasswordGenerator/static/js/787.19639b78.chunk.js",
+    "index.html": "/CristianTrifPasswordGenerator/index.html",
+    "main.3aa9bb06.css.map": "/CristianTrifPasswordGenerator/static/css/main.3aa9bb06.css.map",
+    "main.52d7a91f.js.map": "/CristianTrifPasswordGenerator/static/js/main.52d7a91f.js.map",
+    "787.19639b78.chunk.js.map": "/CristianTrifPasswordGenerator/static/js/787.19639b78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa9bb06.css",
+    "static/js/main.52d7a91f.js"
+  ]
+}
